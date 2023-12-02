@@ -255,7 +255,7 @@ const App = () => {
   const renderNotConnectedContainer = () => (
     <div className="connect-wallet-container">
       <img
-        src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif"
+        src="https://media.giphy.com/media/dcgVitZEDfUFOkgIT7/giphy.gif"
         alt="Ninja donut gif"
       />
       {/* Call the connectWallet function we just wrote when the button is clicked */}
