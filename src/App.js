@@ -10,7 +10,7 @@ import { ethers } from "ethers";
 import Domains from "./utils/Domains.json";
 
 // Constants
-const TWITTER_HANDLE = "_buildspace";
+const TWITTER_HANDLE = "SolBlaze3";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 // Add the domain you will be minting
 const tld = ".ninja";
