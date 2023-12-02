@@ -398,6 +398,8 @@ const App = () => {
           <header>
             <div className="left">
               <p className="title">⚔️ XP Name Service</p>
+              <p className="subtitle">Your domain on the blockchain!</p>
+
             </div>
             {/* Display a logo and wallet connection status*/}
             <div className="right">
